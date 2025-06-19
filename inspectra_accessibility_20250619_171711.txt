@@ -1,0 +1,8 @@
+Inspectra Accessibility Report – https://www.cnn.com/
+
+Images missing alt text (0):
+
+
+Form inputs missing labels (0):
+
+

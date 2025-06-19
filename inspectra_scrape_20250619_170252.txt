@@ -1,0 +1,35 @@
+Inspectra Web Scrape Report - https://www.responsegroupinc.com/iap
+
+Headings (24):
+24/7 Emergency Support
++1 281.880.5000
+IAP SOFTWARE
+IAP Software
+IAP Software Training
+Download Mobile App
+ALL RISK \ ALL HAZARD
+INITIAL RESPONSE
+Most incidents begin and end within the Initial Response phase.  IAP Software makes it quick and easy to stand up your response with the full suite of Initial Response forms, the Incident Creation Wizard, and mobile
+CRISIS MANAGEMENT
+
+Paragraphs (21):
+ABOUT US
+PRODUCTS
+SERVICES
+TOOLS
+CLIENT LOGIN
+
+Images (18):
+https://static.wixstatic.com/media/7e4017_312ba149187e44ebafbb12eed53d47f7~mv2.png/v1/fill/w_240,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TRG%20Logo%20-%20transparent.png
+https://static.wixstatic.com/media/7e4017_20fee053994e4a2f9c56462242ffb878~mv2_d_2016_1512_s_2.jpg/v1/fill/w_123,h_92,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7e4017_20fee053994e4a2f9c56462242ffb878~mv2_d_2016_1512_s_2.jpg
+https://static.wixstatic.com/media/7e4017_1f5c0b9f7427444ba2c15188a816f092~mv2.png/v1/fill/w_150,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/app-store-badge.png
+https://static.wixstatic.com/media/7e4017_56051bb8cc62466981c0e63ed7eddfe6~mv2.png/v1/fill/w_150,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/google-play-badge.png
+https://static.wixstatic.com/media/bf5824_333f76ff6a8146559726190b11d54074~mv2.jpg/v1/fill/w_75,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Fire%20Station%20Interior_edited_edited.jpg
+
+Alt Texts (17):
+TRG Logo - transparent.png
+app-store-badge.png
+google-play-badge.png
+Fire Station Interior_edited_edited.jpg
+Business Meeting_edited.jpg
+
