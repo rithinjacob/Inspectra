@@ -1,23 +1,24 @@
 # Inspectra
-Automated website QA, scraper, and accessibility toolkit built in Python.
-# Inspectra
 
-**Automated Website QA Toolkit**  
-Inspectra is a Python-based tool for scanning websites to identify missing or broken buttons/links, validate accessibility, and extract key content.
-🧠 This project was built and tested in [Replit](https://replit.com), but can also run locally using Python 3.11+.
+**Automated Website QA Toolkit (Python)**  
+Inspectra is a modular command-line app that helps you inspect websites for broken or missing elements.
 
+✅ **Module 1: QA Scanner**
+- Extracts all `<a>` and `<button>` tags from any website
+- Detects missing text, labels, or empty links
+- Built using `requests` and `BeautifulSoup`
 
-## 🧪 Features
+🧪 **Modules Coming Soon**
+- Scraper (headings, images, metadata)
+- Accessibility Audit (alt text, ARIA labels, contrast, etc.)
 
-- ✅ Module 1: QA – Button & Link Checker
-- (Development) Module 2: Scraper – (Coming soon)
-- (Development) Module 3: Accessibility Audit – (Coming soon)
-- (Development)  Modular structure with CLI interface
+---
 
-## 🔍 Usage
+## 💻 How to Run
 
-1. Clone the repo or run locally
-2. Install dependencies:
+Clone the repo and install dependencies:
 
 ```bash
 pip install requests beautifulsoup4
+python inspectra.py
+
